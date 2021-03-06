@@ -1,4 +1,4 @@
-This project contains lot of quotes.
+This project contains some quotes.
 
 Quotes from:
 Linus Torvalds
